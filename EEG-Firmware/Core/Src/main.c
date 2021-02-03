@@ -4,7 +4,7 @@
   * @file           : main.c
   * @brief          : Main program body
   ******************************************************************************
-Created by Ali Özcan
+Created by Ali Özcan Ünal
 
 
 
